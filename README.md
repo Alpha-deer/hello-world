@@ -1,5 +1,3 @@
-# hello-world
+# vue-admin
 
-simple
-
-Alpha-deer here,I like javascript.
+##an vue admin project
